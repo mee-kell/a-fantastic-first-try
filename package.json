@@ -1,6 +1,6 @@
 {
   "name": "a-fantastic-first-try",
-  "description": "This is my first attempt at making a React App. Thanks to Google Code-in and OpenMRS for encouraging me!",
+  "description": "This is my first attempt at making a React App. Thanks to Google Code-in and OpenMRS for encouraging me! :-)",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
